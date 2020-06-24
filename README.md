@@ -1,5 +1,7 @@
 # Nuxt Visualisation Example
 
+https://vue-chart-example.netlify.app/
+
 ## Build Setup
 
 ``` bash
