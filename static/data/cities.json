@@ -1,0 +1,51 @@
+[{
+  "name": "Tokyo",
+  "continent": "Asia",
+  "population": 38505000  ,
+  "area": 8223
+}, {
+  "name": "Delhi",
+  "continent": "Asia",
+  "population": 28125000,
+  "area": 2240
+}, {
+  "name": "Shanghai",
+  "continent": "Asia",
+  "population": 22125000,
+  "area": 4015
+}, {
+  "name": "São Paulo",
+  "continent": "South America",
+  "population": 20935000,
+  "area": 3043
+}, {
+  "name": "Mexico City",
+  "continent": "South America",
+  "population": 20395000,
+  "area": 2370
+}, {
+  "name": "Cairo",
+  "continent": "Africa",
+  "population": 16925000,
+  "area": 1917
+}, {
+  "name": "Mumbai",
+  "continent": "Asia",
+  "population": 23645000,
+  "area": 881
+}, {
+  "name": "Beijing",
+  "continent": "Asia",
+  "population": 19430000,
+  "area": 4144
+}, {
+  "name": "Dhaka",
+  "continent": "Asia",
+  "population": 18595000,
+  "area": 453
+}, {
+  "name": "Osaka",
+  "continent": "Asia",
+  "population": 17150000,
+  "area": 3004
+}]

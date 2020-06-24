@@ -1,0 +1,12 @@
+@charset "utf-8";
+@import "./global";
+
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: $spacing;
+}
